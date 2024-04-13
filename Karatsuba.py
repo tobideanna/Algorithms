@@ -41,4 +41,4 @@ print("Result:", result)
 
 #else:
  #   print('wrong')
-  #  sys.exit
+sys.exit
